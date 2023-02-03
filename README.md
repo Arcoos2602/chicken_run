@@ -1,6 +1,7 @@
 Needs:
 - MongoDb server
 - nodeJS installed
+
 Usage:
 - npm install
 - node server.js
