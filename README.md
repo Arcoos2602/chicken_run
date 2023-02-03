@@ -1,6 +1,6 @@
 Needs:
-- MongoDb server
-- nodeJS installed
+- MongoDb ( https://www.mongodb.com/docs/manual/installation/ )
+- nodeJS ( https://nodejs.org/en/download/ )
 
 Usage:
 - npm install
